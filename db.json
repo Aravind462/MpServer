@@ -1,0 +1,61 @@
+{
+  "uploadVideos": [
+    {
+      "id": "0115",
+      "caption": "Leo Trailer",
+      "imgUrl": "https://i.ytimg.com/vi/Po3jStA673E/maxresdefault.jpg",
+      "youTubeLink": "https://www.youtube.com/embed/Po3jStA673E"
+    },
+    {
+      "id": "dc8d",
+      "caption": "Vazha Trailer",
+      "imgUrl": "https://i.ytimg.com/vi/1CyHMlo41vU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAgV0XCL6OSTRs-76zVoZTwx77Wlw",
+      "youTubeLink": "https://www.youtube.com/embed/EdsxhVLDLb4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "b8e6",
+      "categoryName": "Tutorial",
+      "allVideos": [
+        {
+          "id": "f8c8",
+          "caption": "CSS",
+          "imgUrl": "https://i.ytimg.com/vi/1PnVor36_40/maxresdefault.jpg",
+          "youTubeLink": "https://www.youtube.com/embed/wRNinF7YQqQ"
+        },
+        {
+          "id": "0db9",
+          "caption": "JS",
+          "imgUrl": "https://images.javatpoint.com/images/javascript/javascript_logo.png",
+          "youTubeLink": "https://www.youtube.com/embed/PkZNo7MFNFg"
+        }
+      ]
+    },
+    {
+      "id": "8c09",
+      "categoryName": "Trailers",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "6fbc",
+      "caption": "Leo Trailer",
+      "youTubeLink": "https://www.youtube.com/embed/Po3jStA673E",
+      "timeStamp": "11/4/2024, 1:13:56 AM GMT+5:30"
+    },
+    {
+      "id": "6f1e",
+      "caption": "JS",
+      "youTubeLink": "https://www.youtube.com/embed/PkZNo7MFNFg",
+      "timeStamp": "11/6/2024, 9:36:12 AM GMT+5:30"
+    },
+    {
+      "id": "5f42",
+      "caption": "JS",
+      "youTubeLink": "https://www.youtube.com/embed/PkZNo7MFNFg",
+      "timeStamp": "11/6/2024, 10:19:21 AM GMT+5:30"
+    }
+  ]
+}
